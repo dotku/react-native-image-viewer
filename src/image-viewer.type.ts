@@ -19,6 +19,7 @@ export class Props {
   /**
    * 图片数组
    */
+  public images?: IImageInfo[] = [];
   public imageUrls: IImageInfo[] = [];
 
   /**
